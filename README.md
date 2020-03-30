@@ -4,6 +4,8 @@ Esse projeto consiste em dois jogos de Memória onde um faz o uso do java swing 
 faz o uso do console, ambos compartilham a classe MemoryGame para executar o jogo internamente.
 
 ## Classe MemoryGame
+Essa classe é utilizada tanto pelo ConsoleGame quanto pelo SwingGame para executar o jogo
+
 * __Variáveis de controle__ - as variáveis de controle criada são usadas para definir quantas jogadas o
 jogador possúi e quantas vezes a função adivinhar retornou true
 
