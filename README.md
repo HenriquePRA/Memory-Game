@@ -1,8 +1,19 @@
-# Momory Game
+# Memory Game  :books:
 
+<p>
+ <a href="#Sobre">Sobre</a> •  
+ <a href="#Características">Características</a> • 
+ <a href="#MemoryGame">Status do Projeto</a> • 
+ <a href="#Requisitos">Requisitos Mínimos</a> 
+ :open_file_folder:
+</p>
+
+<a name="Sobre"></a>
+## Sobre :information_source:
 Esse projeto consiste em dois jogos de Memória onde um faz o uso do java swing para ser jogado e outro
 faz o uso do console, ambos compartilham a classe MemoryGame para executar o jogo internamente.
 
+<a name="Sobre"></a>
 ## Classe MemoryGame
 Essa classe é utilizada tanto pelo ConsoleGame quanto pelo SwingGame para executar o jogo
 
